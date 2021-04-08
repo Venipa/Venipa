@@ -3,7 +3,7 @@ Im a software developer in the depths of Javascript, PHP, C#, C.
 
 But i do also got to know languages like Ruby, Crystal, Java, Python.
 
-I also have a vast knowledge of Webdesign which includes technologies and frameworks to help myself building websites like Laravel, React, Vue, Angular, Nuxt and several other libraries.
+I also have a vast knowledge of Webdesign which includes technologies and frameworks to help myself building websites with Laravel, React, Vue, Angular, Nuxt and several other libraries.
 
 ---
 Im currently working on
