@@ -8,9 +8,9 @@ I also have a vast knowledge of Webdesign which includes technologies and framew
 ---
 Im currently working on
 
-[![Biyori - Anime Library Management](https://github-readme-stats.venipa.vercel.app/api/pin/?username=Venipa&repo=Biyori&theme=midnight-purple)](https://github.com/Venipa/Biyori)
+[![Biyori - Anime Library Management](https://github-readme-stats.venipa.vercel.app/api/pin/?username=Venipa&repo=Biyori&theme=midnight-purple&hide_border=true)](https://github.com/Venipa/Biyori)
 
-[![Venipa's github stats](https://github-readme-stats.venipa.vercel.app/api?username=Venipa&count_private=true&theme=midnight-purple)](https://github.com/Venipa)
+[![Venipa's github stats](https://github-readme-stats.venipa.vercel.app/api?username=Venipa&count_private=true&theme=midnight-purple&hide_border=true)](https://github.com/Venipa)
 
 <!--
 **Venipa/Venipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
