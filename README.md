@@ -14,6 +14,10 @@ I also have a vast knowledge of Webdesign which includes technologies and framew
 [![](https://github-readme-stats.venipa.vercel.app/api/pin/?username=Venipa&repo=ytmdesktop2&theme=midnight-purple&hide_border=true)](https://github.com/Venipa/ytmdesktop2)
 [![](https://github-readme-stats.venipa.vercel.app/api/pin/?username=Venipa&repo=booru-browser&theme=midnight-purple&hide_border=true)](https://github.com/Venipa/booru-browser)
 
+---
+
+[Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVenipa%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23D19F9F&title=Visits&edge_flat=false)
+
 <!--
 **Venipa/Venipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
