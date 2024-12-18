@@ -5,7 +5,7 @@ But i do also got to know languages like Ruby, Crystal, Java, Python.
 
 I also have a vast knowledge of Webdesign which includes technologies and frameworks to help myself building websites with Laravel, React, Vue, Angular, Nuxt and several other libraries.
 
-[![Venipa's github stats](https://github-readme-stats.venipa.vercel.app/api?username=Venipa&count_private=true&theme=midnight-purple&hide_border=true)](https://github.com/Venipa)
+[![Venipa's github stats](https://github-readme-stats-venipa.vercel.app/api?username=Venipa&count_private=true&theme=midnight-purple&hide_border=true&include_all_commits=true)](https://github.com/Venipa)
 
 
 ---
