@@ -12,6 +12,7 @@ I also have a vast knowledge of Webdesign which includes technologies and framew
 
 [![Biyori - Anime Library Management](https://github-readme-stats.venipa.vercel.app/api/pin/?username=Venipa&repo=Biyori&theme=neon&hide_border=true)](https://github.com/Venipa/Biyori)
 [![](https://github-readme-stats.venipa.vercel.app/api/pin/?username=Venipa&repo=ytmdesktop2&theme=neon&hide_border=true)](https://github.com/Venipa/ytmdesktop2)
+[![](https://github-readme-stats.venipa.vercel.app/api/pin/?username=Venipa&repo=ytdlp-desktop&theme=neon&hide_border=true)](https://github.com/Venipa/ytdlp-desktop)
 [![](https://github-readme-stats.venipa.vercel.app/api/pin/?username=Venipa&repo=booru-browser&theme=neon&hide_border=true)](https://github.com/Venipa/booru-browser)
 
 ---
