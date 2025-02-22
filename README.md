@@ -1,9 +1,10 @@
-### Hi there 👋
-Im a software developer in the depths of Javascript, PHP, C#, C.
+# Hey there! 👋
 
-But i do also got to know languages like Ruby, Crystal, Java, Python.
+I'm a software developer diving deep into JavaScript, PHP, C#, and C. I also dabble in a few other languages like Ruby, Crystal, Java, and Python.
 
-I also have a vast knowledge of Webdesign which includes technologies and frameworks to help myself building websites with Laravel, React, Vue, Angular, Nuxt and several other libraries.
+On top of coding, I have a solid background in web design. I love using frameworks and tools like NextJs (react), Nuxt (vue), Adonis JS, Angular, Laravel and a bunch of other libraries to build cool websites.
+
+I'm all about creating fun and functional applications, and I'm always looking to learn new things in this ever-changing tech world!
 
 [![Venipa's github stats](https://github-readme-stats-venipa.vercel.app/api?username=Venipa&count_private=true&theme=neon&hide_border=true&show_icons=true&show=prs_merged)](https://github.com/Venipa)
 
