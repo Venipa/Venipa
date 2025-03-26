@@ -18,8 +18,6 @@ I'm all about creating fun and functional applications, and I'm always looking t
 
 ---
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVenipa%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23D19F9F&title=Visits&edge_flat=false)
-
 ![Discord](https://discord-readme-badge-eight.vercel.app/api?id=442612628104151040)
 
 <!--
