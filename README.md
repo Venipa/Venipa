@@ -19,7 +19,7 @@ I'm all about creating fun and functional applications, and I'm always looking t
 
 ---
 
-[![Discord Presence](https://gdr.venipa.net/api/442612628104151040?borderRadius=12px&theme=dark&bg=101010&hideStatus=true&hideTag=true&hideProfile=true&activityType=ytm)](https://discord.com/users/442612628104151040)
+[![Discord Presence](https://gdr.venipa.net/api/442612628104151040?borderRadius=12px&theme=dark&bg=000&hideStatus=true&hideTag=true&hideProfile=true&activityType=ytm&idleMessage=I'm%20not%20listening%20to%20anything%20rn...%20%E2%9C%8C%EF%B8%8F)](https://discord.com/users/442612628104151040)
 
 <!--
 **Venipa/Venipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
