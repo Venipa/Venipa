@@ -19,7 +19,7 @@ I'm all about creating fun and functional applications, and I'm always looking t
 
 ---
 
-![Discord](https://discord-readme-badge-eight.vercel.app/api?id=442612628104151040)
+[![Discord Presence](https://gdr.venipa.net/api/442612628104151040?borderRadius=12px&theme=dark&bg=111111&hideStatus=true&hideTag=true&hideProfile=true&activityType=ytm)](https://discord.com/users/442612628104151040)
 
 <!--
 **Venipa/Venipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
