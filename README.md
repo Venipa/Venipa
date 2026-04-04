@@ -7,7 +7,7 @@ On top of coding, I have a solid background in web design. I love using framewor
 I'm all about creating fun and functional applications, and I'm always looking to learn new things in this ever-changing tech world!
 
 [![Venipa's github stats](https://github-readme-stats-venipa.vercel.app/api?username=Venipa&count_private=true&theme=neon&hide_border=true&show_icons=true&show=prs_merged)](https://github.com/Venipa)
-[![Top Langs](https://github-readme-stats-venipa.vercel.app/api/top-langs/?username=Venipa&layout=donut&theme=neon&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-venipa.vercel.app/api/top-langs/?username=Venipa&layout=donut&theme=neon&hide_border=true&show_icons=true)](#)
 
 
 ---
