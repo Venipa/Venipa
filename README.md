@@ -6,16 +6,15 @@ On top of coding, I have a solid background in web design. I love using framewor
 
 I'm all about creating fun and functional applications, and I'm always looking to learn new things in this ever-changing tech world!
 
-[![Venipa's github stats](https://github-readme-stats-venipa.vercel.app/api?username=Venipa&count_private=true&theme=neon&hide_border=true&show_icons=true&show=prs_merged)](https://github.com/Venipa)
-[![Top Langs](https://github-readme-stats-venipa.vercel.app/api/top-langs/?username=Venipa&layout=donut&theme=neon&hide_border=true&show_icons=true)](#)
+[![Venipa's github stats](./profile/stats.svg)](https://github.com/Venipa)
+[![Top Langs](./profile/top-langs.svg)](#)
 
 
 ---
 
-[![Borderless](https://github-readme-stats.venipa.vercel.app/api/pin/?username=Venipa&repo=Borderless&theme=neon&hide_border=true)](https://venipa.github.io/Borderless/)
-[![](https://github-readme-stats.venipa.vercel.app/api/pin/?username=Venipa&repo=Biyori&theme=neon&hide_border=true)](https://github.com/Venipa/Biyori)
-[![](https://github-readme-stats.venipa.vercel.app/api/pin/?username=Venipa&repo=ytmdesktop2&theme=neon&hide_border=true)](https://github.com/Venipa/ytmdesktop2)
-[![](https://github-readme-stats.venipa.vercel.app/api/pin/?username=Venipa&repo=ytdlp-desktop&theme=neon&hide_border=true)](https://github.com/Venipa/ytdlp-desktop)
+[![Borderless](./profile/pin-Borderless.svg)](https://venipa.github.io/Borderless/)
+[![Biyori](./profile/pin-Biyori.svg)](https://github.com/Venipa/Biyori)
+[![ytmdesktop2](./profile/pin-ytmdesktop2.svg)](https://github.com/Venipa/ytmdesktop2)
 
 ---
 
